@@ -1,2 +1,2 @@
-# cutcot-bot
-A discord bot for Cut Cot (cut-cot.com).
+# randbot
+A discord bot randomizing API.
